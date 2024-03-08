@@ -1,3 +1,4 @@
+import hidecode1
 import os
 print('Cr!mson Exploits')
 
