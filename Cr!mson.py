@@ -1,5 +1,4 @@
 import os
-git submodule add https://github.com/ThatOnePythonKid/hidecode1
 print('Cr!mson Exploits')
 
 
